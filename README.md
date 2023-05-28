@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋<br><br>I’m Anushka, an Associate Data Analyst, and creative coder. I am actively working on my skills to shift to the role of a front-end developer.  I strive to continuously expand my knowledge and explore new technologies. My goal is to create meaningful and impactful applications that provide value to users.<br>
+Hey there 👋<br><br>I’m Anushka Bommakanty, an Associate Data Analyst, and creative coder. I am actively working on my skills to shift from my existing profile to a software developer.  I strive to continuously expand my knowledge and explore new technologies. My goal is to create meaningful and impactful applications that provide value to users.<br>
 
 
 ## 🌐 Socials:

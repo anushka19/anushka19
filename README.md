@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋<br><br>I'm Anushka Bommakanty, an Associate Data Analyst with a passion for exploring new technologies and expanding my knowledge. I enjoy being a creative coder and constantly strive to create meaningful and impactful applications that provide value to users. I'm excited about the possibilities that lie ahead in the world of software development, and I'm dedicated to enhancing my skills in this area. By continuously learning and pushing boundaries, I aim to contribute to the development of innovative solutions that make a difference.
+Hey there 👋<br><br>I'm Anushka Bommakanty, a Senior Data Analyst passionate about exploring new technologies and expanding my knowledge. I enjoy being a creative coder and constantly strive to create meaningful and impactful applications that provide value to users. I'm excited about the possibilities in the world of product development, and I'm dedicated to enhancing my skills in this area. By continuously learning and pushing boundaries, I aim to contribute to developing innovative solutions that make a difference.
 .<br>
 
 
